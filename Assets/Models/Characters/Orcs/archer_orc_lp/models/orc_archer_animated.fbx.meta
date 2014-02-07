@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: 531ab833a0f155e49a62965f8b8d9728
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: arrow
+    100002: bow
+    100004: bow1
+    100006: brows
+    100008: club4
+    100010: eyes1
+    100012: HIKCharacterNode1_Head
+    100014: HIKCharacterNode1_Hips
+    100016: HIKCharacterNode1_LeftArm
+    100018: HIKCharacterNode1_LeftFoot
+    100020: HIKCharacterNode1_LeftFootMiddle1
+    100022: HIKCharacterNode1_LeftFootMiddle2
+    100024: HIKCharacterNode1_LeftForeArm
+    100026: HIKCharacterNode1_LeftHand
+    100028: HIKCharacterNode1_LeftHandIndex1
+    100030: HIKCharacterNode1_LeftHandIndex2
+    100032: HIKCharacterNode1_LeftHandIndex3
+    100034: HIKCharacterNode1_LeftHandMiddle1
+    100036: HIKCharacterNode1_LeftHandMiddle2
+    100038: HIKCharacterNode1_LeftHandMiddle3
+    100040: HIKCharacterNode1_LeftHandThumb1
+    100042: HIKCharacterNode1_LeftHandThumb2
+    100044: HIKCharacterNode1_LeftHandThumb3
+    100046: HIKCharacterNode1_LeftLeg
+    100048: HIKCharacterNode1_LeftShoulder
+    100050: HIKCharacterNode1_LeftUpLeg
+    100052: HIKCharacterNode1_Neck
+    100054: HIKCharacterNode1_RightArm
+    100056: HIKCharacterNode1_RightFoot
+    100058: HIKCharacterNode1_RightFootMiddle1
+    100060: HIKCharacterNode1_RightFootMiddle2
+    100062: HIKCharacterNode1_RightForeArm
+    100064: HIKCharacterNode1_RightHand
+    100066: HIKCharacterNode1_RightHandIndex1
+    100068: HIKCharacterNode1_RightHandIndex2
+    100070: HIKCharacterNode1_RightHandIndex3
+    100072: HIKCharacterNode1_RightHandMiddle1
+    100074: HIKCharacterNode1_RightHandMiddle2
+    100076: HIKCharacterNode1_RightHandMiddle3
+    100078: HIKCharacterNode1_RightHandThumb1
+    100080: HIKCharacterNode1_RightHandThumb2
+    100082: HIKCharacterNode1_RightHandThumb3
+    100084: HIKCharacterNode1_RightLeg
+    100086: HIKCharacterNode1_RightShoulder
+    100088: HIKCharacterNode1_RightUpLeg
+    100090: HIKCharacterNode1_Spine
+    100092: HIKCharacterNode1_Spine1
+    100094: jaw
+    100096: //RootNode
+    100098: orc_archer_body
+    100100: orc_archer_eyes
+    100102: quiver
+    100104: string1
+    100106: transform1
+    100108: transform2
+    400000: arrow
+    400002: bow
+    400004: bow1
+    400006: brows
+    400008: club4
+    400010: eyes1
+    400012: HIKCharacterNode1_Head
+    400014: HIKCharacterNode1_Hips
+    400016: HIKCharacterNode1_LeftArm
+    400018: HIKCharacterNode1_LeftFoot
+    400020: HIKCharacterNode1_LeftFootMiddle1
+    400022: HIKCharacterNode1_LeftFootMiddle2
+    400024: HIKCharacterNode1_LeftForeArm
+    400026: HIKCharacterNode1_LeftHand
+    400028: HIKCharacterNode1_LeftHandIndex1
+    400030: HIKCharacterNode1_LeftHandIndex2
+    400032: HIKCharacterNode1_LeftHandIndex3
+    400034: HIKCharacterNode1_LeftHandMiddle1
+    400036: HIKCharacterNode1_LeftHandMiddle2
+    400038: HIKCharacterNode1_LeftHandMiddle3
+    400040: HIKCharacterNode1_LeftHandThumb1
+    400042: HIKCharacterNode1_LeftHandThumb2
+    400044: HIKCharacterNode1_LeftHandThumb3
+    400046: HIKCharacterNode1_LeftLeg
+    400048: HIKCharacterNode1_LeftShoulder
+    400050: HIKCharacterNode1_LeftUpLeg
+    400052: HIKCharacterNode1_Neck
+    400054: HIKCharacterNode1_RightArm
+    400056: HIKCharacterNode1_RightFoot
+    400058: HIKCharacterNode1_RightFootMiddle1
+    400060: HIKCharacterNode1_RightFootMiddle2
+    400062: HIKCharacterNode1_RightForeArm
+    400064: HIKCharacterNode1_RightHand
+    400066: HIKCharacterNode1_RightHandIndex1
+    400068: HIKCharacterNode1_RightHandIndex2
+    400070: HIKCharacterNode1_RightHandIndex3
+    400072: HIKCharacterNode1_RightHandMiddle1
+    400074: HIKCharacterNode1_RightHandMiddle2
+    400076: HIKCharacterNode1_RightHandMiddle3
+    400078: HIKCharacterNode1_RightHandThumb1
+    400080: HIKCharacterNode1_RightHandThumb2
+    400082: HIKCharacterNode1_RightHandThumb3
+    400084: HIKCharacterNode1_RightLeg
+    400086: HIKCharacterNode1_RightShoulder
+    400088: HIKCharacterNode1_RightUpLeg
+    400090: HIKCharacterNode1_Spine
+    400092: HIKCharacterNode1_Spine1
+    400094: jaw
+    400096: //RootNode
+    400098: orc_archer_body
+    400100: orc_archer_eyes
+    400102: quiver
+    400104: string1
+    400106: transform1
+    400108: transform2
+    2300000: club4
+    2300002: quiver
+    3300000: club4
+    3300002: quiver
+    4300000: orc_archer_body
+    4300002: orc_archer_eyes
+    4300004: club4
+    4300006: quiver
+    4300008: arrow
+    4300010: bow1
+    7400000: walk
+    7400002: dead
+    7400004: idle
+    9500000: //RootNode
+    13700000: arrow
+    13700002: bow1
+    13700004: orc_archer_body
+    13700006: orc_archer_eyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arrow
+        weight: 0
+      - path: bow1
+        weight: 0
+      - path: HIKCharacterNode1_Hips
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1/HIKCharacterNode1_LeftFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1/HIKCharacterNode1_RightFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2/HIKCharacterNode1_LeftHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2/HIKCharacterNode1_LeftHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2/HIKCharacterNode1_LeftHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/brows
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/eyes1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/jaw
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/club4
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2/HIKCharacterNode1_RightHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2/HIKCharacterNode1_RightHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2/HIKCharacterNode1_RightHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow/string1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/quiver
+        weight: 0
+      - path: orc_archer_body
+        weight: 0
+      - path: orc_archer_eyes
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: dead
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 374
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arrow
+        weight: 0
+      - path: bow1
+        weight: 0
+      - path: HIKCharacterNode1_Hips
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1/HIKCharacterNode1_LeftFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1/HIKCharacterNode1_RightFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2/HIKCharacterNode1_LeftHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2/HIKCharacterNode1_LeftHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2/HIKCharacterNode1_LeftHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/brows
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/eyes1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/jaw
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/club4
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2/HIKCharacterNode1_RightHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2/HIKCharacterNode1_RightHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2/HIKCharacterNode1_RightHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow/string1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/quiver
+        weight: 0
+      - path: orc_archer_body
+        weight: 0
+      - path: orc_archer_eyes
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arrow
+        weight: 0
+      - path: bow1
+        weight: 0
+      - path: HIKCharacterNode1_Hips
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_LeftUpLeg/HIKCharacterNode1_LeftLeg/HIKCharacterNode1_LeftFoot/HIKCharacterNode1_LeftFootMiddle1/HIKCharacterNode1_LeftFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_RightUpLeg/HIKCharacterNode1_RightLeg/HIKCharacterNode1_RightFoot/HIKCharacterNode1_RightFootMiddle1/HIKCharacterNode1_RightFootMiddle2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandIndex1/HIKCharacterNode1_LeftHandIndex2/HIKCharacterNode1_LeftHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandMiddle1/HIKCharacterNode1_LeftHandMiddle2/HIKCharacterNode1_LeftHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_LeftShoulder/HIKCharacterNode1_LeftArm/HIKCharacterNode1_LeftForeArm/HIKCharacterNode1_LeftHand/HIKCharacterNode1_LeftHandThumb1/HIKCharacterNode1_LeftHandThumb2/HIKCharacterNode1_LeftHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/brows
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/eyes1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_Neck/HIKCharacterNode1_Head/jaw
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/club4
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandIndex1/HIKCharacterNode1_RightHandIndex2/HIKCharacterNode1_RightHandIndex3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandMiddle1/HIKCharacterNode1_RightHandMiddle2/HIKCharacterNode1_RightHandMiddle3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2
+        weight: 1
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/HIKCharacterNode1_RightHandThumb1/HIKCharacterNode1_RightHandThumb2/HIKCharacterNode1_RightHandThumb3
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/HIKCharacterNode1_RightShoulder/HIKCharacterNode1_RightArm/HIKCharacterNode1_RightForeArm/HIKCharacterNode1_RightHand/transform2/bow/string1
+        weight: 0
+      - path: HIKCharacterNode1_Hips/HIKCharacterNode1_Spine/HIKCharacterNode1_Spine1/quiver
+        weight: 0
+      - path: orc_archer_body
+        weight: 0
+      - path: orc_archer_eyes
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: HIKCharacterNode1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftFootMiddle1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightFootMiddle1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eyes1
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HIKCharacterNode1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: orc_archer_animated(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arrow
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bow1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_Hips
+      position: {x: -8.42352392e-08, y: .459121972, z: -.0320198759}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .999999523, y: .999999523, z: .999999523}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftUpLeg
+      position: {x: -.148101091, y: .00328682084, z: 4.440892e-18}
+      rotation: {x: -.00290940306, y: 3.64200026e-09, z: -1.25179793e-06, w: .999995768}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftLeg
+      position: {x: -7.05847896e-08, y: -.20042789, z: .011258739}
+      rotation: {x: .021532964, y: 0, z: -0, w: .999768138}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftFoot
+      position: {x: 1.6287645e-08, y: -.194153205, z: -.0231424477}
+      rotation: {x: -.0186284613, y: -2.3303441e-08, z: 1.250742e-06, w: .999826491}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftFootMiddle1
+      position: {x: -6.72297465e-05, y: -.0626231357, z: .0441047996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftFootMiddle2
+      position: {x: -5.65059101e-14, y: 1.5685761e-10, z: .0903355181}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightUpLeg
+      position: {x: .148101091, y: .00328682084, z: 4.440892e-18}
+      rotation: {x: -.00294651557, y: -4.32570735e-09, z: 1.46806917e-06, w: .999995649}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightLeg
+      position: {x: 7.92904586e-08, y: -.200428009, z: .0112587577}
+      rotation: {x: .0216077752, y: 0, z: -0, w: .999766529}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightFoot
+      position: {x: -4.46229276e-09, y: -.194153234, z: -.0231426116}
+      rotation: {x: -.0186661668, y: 2.73846936e-08, z: -1.46682089e-06, w: .999825776}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightFootMiddle1
+      position: {x: 6.72289825e-05, y: -.0626231357, z: .0441047996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightFootMiddle2
+      position: {x: 5.65059101e-14, y: 1.5685761e-10, z: .0903355181}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_Spine
+      position: {x: -0, y: .235810697, z: .00444706157}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_Spine1
+      position: {x: -6.50525605e-17, y: .234419152, z: -.0195172261}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftShoulder
+      position: {x: -.0699999779, y: .196694478, z: -.0338210203}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftArm
+      position: {x: -.172426656, y: -.00571129145, z: -.00978650525}
+      rotation: {x: 1.03307575e-05, y: -7.53454378e-06, z: -3.62060382e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftForeArm
+      position: {x: -.22731927, y: -5.06671495e-06, z: .00126702548}
+      rotation: {x: -2.25690274e-05, y: -.0115265073, z: -.00167972746, w: .99993217}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHand
+      position: {x: -.168762878, y: -.00264076306, z: .0176454335}
+      rotation: {x: 1.30360886e-05, y: 5.81459153e-06, z: -1.12500438e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandIndex1
+      position: {x: -.16014047, y: .00199737796, z: .0806081593}
+      rotation: {x: .000811483478, y: -.0205624495, z: -.0103476383, w: .999734759}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandIndex2
+      position: {x: -.0785215348, y: -.00962400623, z: .0129666328}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandIndex3
+      position: {x: -.0590177774, y: -.00992948841, z: .0121412212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandMiddle1
+      position: {x: -.171438932, y: -.00459986459, z: -.00430372264}
+      rotation: {x: .00125348882, y: -.0336831734, z: -.0139310621, w: .999334693}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandMiddle2
+      position: {x: -.0746240392, y: -.00883746054, z: .014652947}
+      rotation: {x: -.00471704453, y: -.00988345686, z: -.0299836788, w: .99949038}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandMiddle3
+      position: {x: -.0535814315, y: -.0142194554, z: .0131165665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandThumb1
+      position: {x: -.0721088871, y: -.0263945032, z: .0977561623}
+      rotation: {x: -.0233408473, y: .00540378643, z: -.0243811328, w: .999415696}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandThumb2
+      position: {x: -.0546272397, y: -.0184375718, z: .0482099317}
+      rotation: {x: -.0538734682, y: -.0113934558, z: .000370506546, w: .998482704}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_LeftHandThumb3
+      position: {x: -.0458884574, y: -.0205142926, z: .0347718522}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_Neck
+      position: {x: -1.11871149e-16, y: .234419003, z: -.0338210128}
+      rotation: {x: -.0410628468, y: 0, z: 0, w: .999156594}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_Head
+      position: {x: 1.76923716e-16, y: .200910538, z: .13093473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: brows
+      position: {x: .000216814529, y: .276175886, z: .352595627}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyes1
+      position: {x: -0, y: .138447762, z: .0533687472}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw
+      position: {x: 1.16494029e-17, y: -.115482092, z: .0974244401}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightShoulder
+      position: {x: .0699999779, y: .196694478, z: -.0338210203}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightArm
+      position: {x: .172426656, y: -.00571129145, z: -.00978650525}
+      rotation: {x: 1.02521944e-05, y: 7.72084604e-06, z: 3.63250292e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightForeArm
+      position: {x: .227319285, y: -5.19730429e-06, z: .00126716727}
+      rotation: {x: -2.25573785e-05, y: .0115264114, z: .00167981081, w: .99993217}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHand
+      position: {x: .168762878, y: -.0026408222, z: .0176454205}
+      rotation: {x: 1.31062725e-05, y: -5.64894572e-06, z: 1.1082735e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: club4
+      position: {x: 6.03498108e-07, y: .00158974365, z: .00549012749}
+      rotation: {x: -5.38081395e-07, y: -2.95289683e-05, z: -3.83898396e-06, w: 1}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1.00000048}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandIndex1
+      position: {x: .16014047, y: .00199737796, z: .0806081593}
+      rotation: {x: .000811476843, y: .0205625687, z: .0103477659, w: .9997347}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandIndex2
+      position: {x: .0785215348, y: -.00962400623, z: .0129666328}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandIndex3
+      position: {x: .0590177774, y: -.00992948841, z: .0121412212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandMiddle1
+      position: {x: .171438932, y: -.00459986459, z: -.0043037273}
+      rotation: {x: .00125348556, y: .0336834192, z: .0139315184, w: .999334693}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandMiddle2
+      position: {x: .0746240392, y: -.00883746054, z: .014652947}
+      rotation: {x: -.00471681496, y: .00988321286, z: .0299824364, w: .99949044}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandMiddle3
+      position: {x: .0535814315, y: -.0142194554, z: .0131165665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandThumb1
+      position: {x: .0721088871, y: -.0263945032, z: .0977561623}
+      rotation: {x: -.0233410075, y: -.00540394289, z: .0243813004, w: .999415636}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandThumb2
+      position: {x: .0546272397, y: -.0184375718, z: .0482099317}
+      rotation: {x: -.0432311818, y: -.0869411156, z: .0157357454, w: .995150566}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HIKCharacterNode1_RightHandThumb3
+      position: {x: .0514333583, y: -.0209567156, z: .0255165566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform1
+      position: {x: -.63852334, y: -1.11928844, z: .066273436}
+      rotation: {x: -4.31970818e-07, y: -2.95289556e-05, z: -3.83896486e-06, w: 1}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1.00000048}
+      transformModified: 1
+    - name: transform2
+      position: {x: -.638522744, y: -1.11769867, z: .0717637986}
+      rotation: {x: -5.38081395e-07, y: -2.95289683e-05, z: -3.83898396e-06, w: 1}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1.00000048}
+      transformModified: 1
+    - name: bow
+      position: {x: -9.15494354e-07, y: -.0015897511, z: -.00549036358}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: string1
+      position: {x: -0, y: 0, z: -.239311457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: quiver
+      position: {x: 8.42352748e-08, y: .00159576489, z: .00548234442}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1.00000048}
+      transformModified: 1
+    - name: orc_archer_body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: orc_archer_eyes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  userData: 

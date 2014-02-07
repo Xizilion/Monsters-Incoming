@@ -1,0 +1,7 @@
+frame 010-034: run
+frame 050-074: walk
+frame 090-170: idle
+frame 190-270: combat idle
+frame 290-314: melee attack 1
+frame 320-344: melee attack 2
+frame 350-374: knocked over
